@@ -8,7 +8,7 @@ Spring Boot Starter for monitoring your Spring apps with [Instana](https://www.i
 
 _Just this README._
 
-Why?
+"Why? How?", I hear you say.
 
 Because tracing your [Spring Boot applications with Instana](https://www.instana.com/supported-technologies/java-monitoring/) works out of the box.
 All automated, end-to-end.
