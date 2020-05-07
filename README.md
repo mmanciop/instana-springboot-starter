@@ -1,6 +1,6 @@
 # Instana Spring Boot Starter
 
-Spring Boot Starter for monitoring your Spring apps with [Instana](https://www.instana.com).
+Spring Boot Starter for monitoring your Spring Boot applications with [Instana](https://www.instana.com).
 
 ## What does it contains?
 
@@ -51,4 +51,6 @@ You go classy with some VMware vSphere? [There you go](https://docs.instana.io/e
 ## No, this can't be true
 
 Well, it actually is.
-And if you do not take my word for it, how about you have a look at the [Play with Instana](https://play-with.instana.io/) sandbox, and if you like what you see, [try it out](https://www.instana.com/trial/) free for two weeks to monitor your applications, no strings attached?
+And if you do not take my word for it, how about you have a look at the [Play with Instana](https://play-with.instana.io/) sandbox.
+
+And if you like what you see, [try it out](https://www.instana.com/trial/) free for two weeks to monitor your applications, no strings attached.
