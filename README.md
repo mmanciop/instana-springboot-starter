@@ -17,8 +17,8 @@ So do all other non-Java applications, by the way.
 And [Kotlin](https://www.instana.com/supported-technologies/kotlin-monitoring/), [Clojure](https://www.instana.com/supported-technologies/clojure-monitoring/) and [Scala](https://www.instana.com/supported-technologies/scala-monitoring/).
 
 Did I mention [Python](https://www.instana.com/supported-technologies/python-monitoring/)?
-We also have [Josh Long](https://twitter.com/starbuxman?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) covered for his _wild_ nights of alcohol abuse and [PHP](https://www.instana.com/supported-technologies/php-monitoring/)?
-Or, in his really darkest moments, [.NET](https://www.instana.com/supported-technologies/microsoft-net-monitoring/)?
+We also have [Josh Long](https://twitter.com/starbuxman?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) covered for his _wild_ nights of alcohol abuse and [PHP](https://www.instana.com/supported-technologies/php-monitoring/).
+And, in his really darkest moments, [.NET](https://www.instana.com/supported-technologies/microsoft-net-monitoring/) monitoring should scratch that itch.
 
 And also .NET Core, Node.js, Ruby, Haskell, Crystal and on and on!
 
