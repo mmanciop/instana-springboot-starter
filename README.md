@@ -53,4 +53,4 @@ You go classy with some VMware vSphere? [There you go](https://docs.instana.io/e
 Well, it actually is.
 And if you do not take my word for it, how about you have a look at the [Play with Instana](https://play-with.instana.io/) sandbox.
 
-And if you like what you see, [try it out](https://www.instana.com/trial/) free for two weeks to monitor your applications, no strings attached.
+Then, if you like what you see, you could [try it out](https://www.instana.com/trial/) to monitor your applications, entirely for free, for two weeks, no strings attached.
