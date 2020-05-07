@@ -1,19 +1,17 @@
 # Instana Spring Boot Starter
 
-Spring Boot Starter for monitoring your Spring Boot applications with [Instana](https://www.instana.com).
+Spring Boot Starter to monitor your applications with [Instana](https://www.instana.com).
 
 ## What does it do?
 
-**NOTHING**.
-
-It is _just this README_.
+**NOTHING**. It is _just this README_.
 
 "Why? How?", I hear you say.
 
 Because tracing your [Spring Boot applications with Instana](https://www.instana.com/supported-technologies/java-monitoring/) works out of the box.
 All automated, end-to-end.
 
-So do all other non-Java applications, by the way.
+The same end-to-end automation is there for all other non-Java applications, by the way.
 And [Kotlin](https://www.instana.com/supported-technologies/kotlin-monitoring/), [Clojure](https://www.instana.com/supported-technologies/clojure-monitoring/) and [Scala](https://www.instana.com/supported-technologies/scala-monitoring/).
 
 Did I mention [Python](https://www.instana.com/supported-technologies/python-monitoring/)?
