@@ -20,11 +20,11 @@ Did I mention [Python](https://www.instana.com/supported-technologies/python-mon
 We also have [Josh Long](https://twitter.com/starbuxman?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) covered for his _wild_ nights of alcohol abuse and [PHP](https://www.instana.com/supported-technologies/php-monitoring/).
 And, in his really darkest moments, [.NET](https://www.instana.com/supported-technologies/microsoft-net-monitoring/) monitoring should scratch that itch.
 
-And also .NET Core, Node.js, Ruby, Haskell, Crystal and on and on!
+And also [.NET Core](https://www.instana.com/blog/instana-introduces-automatic-distributed-tracing-of-net-core/), [Node.js](https://www.instana.com/blog/node-js-monitoring-for-the-masses-moving-beyond-the-hype/), [Ruby](https://docs.instana.io/ecosystem/ruby), [Haskell](https://docs.instana.io/ecosystem/haskell), [Crystal](https://docs.instana.io/ecosystem/crystal) and on and on!
 
 [Install the Instana host agent](https://docs.instana.io/setup_and_manage/host_agent#installation), and you are good to go.
 
-## Really? I have to do nothing but installing the Instana agent?
+## Really? I have to do nothing but install the Instana agent?
 
 If you insist, you could make sure you have the [actuator](https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-features.html) in your app and turn on metrics via JMX for even better monitoring of Spring Boot 2.2.x and above via the following property:
 
