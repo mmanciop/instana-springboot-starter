@@ -37,9 +37,9 @@ Really.
 
 ## Yes but does it work on...
 
-Yes, it does.
+Yup, it does.
 
-You wanna deploy on [Cloud Foundry or VMware Tanzu](https://docs.instana.io/ecosystem/cloudfoundry/)? We _love_ them!
+You wanna deploy on Cloud Foundry or VMware Tanzu? [We _love_ them](https://docs.instana.io/ecosystem/cloudfoundry/)!
 
 Up for some Kubernetes? Knock yourself out with the best-in-class, out-of-the-box, batteries-included-and-then-some [Kubernetes monitoring by Instana](https://docs.instana.io/ecosystem/kubernetes/).
 
