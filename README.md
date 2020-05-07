@@ -2,11 +2,11 @@
 
 Spring Boot Starter for monitoring your Spring Boot applications with [Instana](https://www.instana.com).
 
-## What does it contains?
+## What does it do?
 
 **NOTHING**.
 
-_Just this README._
+It is _just this README_.
 
 "Why? How?", I hear you say.
 
