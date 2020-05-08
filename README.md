@@ -24,16 +24,16 @@ Instana also traces [.NET Core](https://www.instana.com/blog/instana-introduces-
 
 ## Really? I have to do nothing but install the Instana agent?
 
-If you insist, you could make sure you have the [actuator](https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-features.html) in your app and turn on metrics via JMX for even better monitoring of Spring Boot 2.2.x and above via the following property:
+If you insist, you could make sure you have the [Spring Boot actuator](https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-features.html) in your app and turn on metrics via JMX for even better monitoring of Spring Boot 2.2.x and above via the following property:
 
-```prroperties
+```properties
 spring.jmx.enabled=true
 ```
 
 After that, you are all set and good to go.
 Really.
 
-## Yes but does it work on...
+## But does it work on...
 
 Yup, it does.
 
@@ -42,8 +42,8 @@ You wanna deploy on Cloud Foundry or VMware Tanzu? [We _love_ them](https://docs
 Up for some Kubernetes? Knock yourself out with the best-in-class, out-of-the-box, batteries-included-and-then-some [Kubernetes monitoring by Instana](https://docs.instana.io/ecosystem/kubernetes/).
 
 Amazon? [Sure thing](https://docs.instana.io/ecosystem/aws).
-Azure? [Yes please!](https://docs.instana.io/ecosystem/azure)
-Google Cloud? [Very nice!](https://docs.instana.io/ecosystem/gcp)
+Azure? [Yes please](https://docs.instana.io/ecosystem/azure)!
+Google Cloud? [Very nice](https://docs.instana.io/ecosystem/gcp)!
 You go classy with some VMware vSphere? [There you go](https://docs.instana.io/ecosystem/vsphere/).
 
 ## No, this can't be true
